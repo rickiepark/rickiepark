@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark) 
 
 
-I :heart: to :writing_hand: for machine learning and deep learning. Here is repositories for :books: that I translated or wrote. Just click the :orange_book: to go the repo.
+I :heart: to :writing_hand: for machine learning and deep learning. Here is repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
 
 * :dress: [GAN 인 액션](https://tensorflow.blog/gan-in-action/) ([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
