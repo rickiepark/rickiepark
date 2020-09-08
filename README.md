@@ -7,12 +7,12 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark) 
 
 
-I love to write for machine learning and deep learning. Here is repositories for book that I translated or wrote. Just click the book cover to go the repo.
+I :heart: to :writing_hand: for machine learning and deep learning. Here is repositories for :books: that I translated or wrote. Just click the :orange_book: to go the repo.
 
 
-* [GAN 인 액션](https://tensorflow.blog/gan-in-action/)([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
-* [핸즈온 머신러닝 2](https://tensorflow.blog/handson-ml2/)([repo](https://github.com/rickiepark/handson-ml2), [errata](https://tensorflow.blog/handson-ml2/)), 한빛미디어, 2020
-* [미술관에 GAN 딥러닝](https://tensorflow.blog/gdl/)([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
+* :dress: [GAN 인 액션](https://tensorflow.blog/gan-in-action/) ([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
+* :lizard: [핸즈온 머신러닝 2](https://tensorflow.blog/handson-ml2/) ([repo](https://github.com/rickiepark/handson-ml2), [errata](https://tensorflow.blog/handson-ml2/)), 한빛미디어, 2020
+* :parrot: [미술관에 GAN 딥러닝](https://tensorflow.blog/gdl/) ([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
 
 
 <a href="https://github.com/rickiepark/gans-in-action"><img src="https://i1.wp.com/hanbit.co.kr/data/books/B3137824436_l.jpg" height="100"></a>
