@@ -1,10 +1,10 @@
 ### Hi Everyone 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rickiepark.visitor-badge)
 [![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
 [![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rickiepark.visitor-badge)
 
 
 I :heart: to :writing_hand: about machine learning and deep learning. Here is repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
