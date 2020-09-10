@@ -12,7 +12,7 @@ I :heart: to :writing_hand: about machine learning and deep learning. Here is re
 
 * :dress: [GAN 인 액션](https://tensorflow.blog/gan-in-action/) ([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
 * :lizard: [핸즈온 머신러닝 2](https://tensorflow.blog/handson-ml2/) ([video](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb), [repo](https://github.com/rickiepark/handson-ml2), [errata](https://tensorflow.blog/handson-ml2/)), 한빛미디어, 2020
-* :parrot: [미술관에 GAN 딥러닝](https://tensorflow.blog/gdl/) ([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
+* :framed_picture: [미술관에 GAN 딥러닝](https://tensorflow.blog/gdl/) ([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
 * :muscle: [Do It! 딥러닝](https://tensorflow.blog/do-it-dl/) ([video](https://bit.ly/do-it-dl-video), [repo](https://github.com/rickiepark/do-it-dl), [errata](https://tensorflow.blog/do-it-dl/)), 이지스퍼블리싱, 2019
 * :parrot: [파이썬을 활용한 머신러닝 쿡북](https://tensorflow.blog/ml-cookbook/) ([repo](https://github.com/rickiepark/machine-learning-with-python-cookbook), [errata](https://tensorflow.blog/ml-cookbook/)), 한빛미디어, 2019
 * :robot: [머신 러닝 교과서](https://tensorflow.blog/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B5%90%EA%B3%BC%EC%84%9C/) ([repo](https://github.com/rickiepark/python-machine-learning-book-2nd-edition), [errata](https://tensorflow.blog/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B5%90%EA%B3%BC%EC%84%9C/)), 길벗, 2019
