@@ -4,7 +4,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
 [![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
+[![Google Badge](https://img.shields.io/badge/-GDE-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://developers.google.com/community/experts/directory/profile/profile-haesun_park)](https://developers.google.com/community/experts/directory/profile/profile-haesun_park)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rickiepark.visitor-badge)
 
 
