@@ -1,5 +1,3 @@
-<img src="haesun.png" height="100">
-
 ### Hi Everyone 👋
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
@@ -26,6 +24,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 * :brain: [텐서플로 첫걸음](https://tensorflow.blog/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EC%B2%AB%EA%B1%B8%EC%9D%8C/) ([repo](https://github.com/rickiepark/first-steps-with-tensorflow), [errata](https://tensorflow.blog/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EC%B2%AB%EA%B1%B8%EC%9D%8C/)), 한빛미디어, 2016
 
 
+<a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
 <a href="https://github.com/rickiepark/gans-in-action"><img src="https://i1.wp.com/hanbit.co.kr/data/books/B3137824436_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/handson-ml2"><img src="https://tensorflowkorea.files.wordpress.com/2020/04/e18492e185a2e186abe1848ce185b3e1848be185a9e186abe18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bc_2e18491e185a1e186ab__cover-2.png" height="150"></a>
 <a href="https://github.com/rickiepark/GDL_code"><img src="https://tensorflowkorea.files.wordpress.com/2019/10/x9791162241080.jpg" height="150"></a>
