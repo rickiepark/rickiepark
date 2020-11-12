@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
 [![Google Badge](https://img.shields.io/badge/-GDE-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://developers.google.com/community/experts/directory/profile/profile-haesun_park)](https://developers.google.com/community/experts/directory/profile/profile-haesun_park)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rickiepark.visitor-badge)
 
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
