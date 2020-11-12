@@ -1,3 +1,5 @@
+<img src="haesun.png" height="100">
+
 ### Hi Everyone 👋
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
