@@ -11,6 +11,7 @@
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
 
+* :student: 혼자 공부하는 머신러닝+딥러닝 ([repo](https://github.com/rickiepark/hg-mldl), [errata](https://tensorflow.blog/hg-mldl/)), 한빛미디어, 2020
 * :dress: GAN 인 액션 ([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
 * :lizard: 핸즈온 머신러닝 2 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)**, [repo](https://github.com/rickiepark/handson-ml2), [errata](https://tensorflow.blog/handson-ml2/)), 한빛미디어, 2020
 * :framed_picture: 미술관에 GAN 딥러닝 ([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
@@ -25,6 +26,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/rickiepark/hg-mldl"><img src="https://tensorflowkorea.files.wordpress.com/2020/12/b2002963743_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/gans-in-action"><img src="https://i1.wp.com/hanbit.co.kr/data/books/B3137824436_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/handson-ml2"><img src="https://tensorflowkorea.files.wordpress.com/2020/04/e18492e185a2e186abe1848ce185b3e1848be185a9e186abe18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bc_2e18491e185a1e186ab__cover-2.png" height="150"></a>
 <a href="https://github.com/rickiepark/GDL_code"><img src="https://tensorflowkorea.files.wordpress.com/2019/10/x9791162241080.jpg" height="150"></a>
