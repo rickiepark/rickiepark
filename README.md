@@ -12,7 +12,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 * :oyster: 딥러닝 일러스트레이티드 ([repo](https://github.com/rickiepark/dl-illustrated), [errata](https://tensorflow.blog/dl-illustrated/)), 시그마프레스, 2021
-* :student: 혼자 공부하는 머신러닝+딥러닝 ([repo](https://github.com/rickiepark/hg-mldl), [errata](https://tensorflow.blog/hg-mldl/)), 한빛미디어, 2020
+* :student: 혼자 공부하는 머신러닝+딥러닝 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)**, [repo](https://github.com/rickiepark/hg-mldl), [errata](https://tensorflow.blog/hg-mldl/)), 한빛미디어, 2020
 * :dress: GAN 인 액션 ([repo](https://github.com/rickiepark/gans-in-action), [errata](https://tensorflow.blog/gan-in-action/)), 한빛미디어, 2020
 * :lizard: 핸즈온 머신러닝 2 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)**, [repo](https://github.com/rickiepark/handson-ml2), [errata](https://tensorflow.blog/handson-ml2/)), 한빛미디어, 2020
 * :framed_picture: 미술관에 GAN 딥러닝 ([repo](https://github.com/rickiepark/GDL_code), [errata](https://tensorflow.blog/gdl/)), 한빛미디어, 2019
