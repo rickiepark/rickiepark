@@ -43,8 +43,6 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 <a href="https://github.com/rickiepark/introduction_to_ml_with_python/tree/1st_edition"><img src="https://tensorflowkorea.files.wordpress.com/2017/06/b6119391002_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/first-steps-with-tensorflow"><img src="https://tensorflowkorea.files.wordpress.com/2016/08/l.jpg" height="150"></a>
 
-[![Haesun's github stats](https://github-readme-stats.vercel.app/api?username=rickiepark&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **rickiepark/rickiepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
