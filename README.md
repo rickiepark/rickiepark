@@ -11,6 +11,7 @@
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
 
+* :butterfly: 머신러닝 파워드 애플리케이션 ([repo](https://github.com/rickiepark/ml-powered-applications), [errata](https://tensorflow.blog/mlpa/)), 한빛미디어, 2021
 * :bird: 파이토치로 배우는 자연어 처리 ([repo](https://github.com/rickiepark/nlp-with-pytorch/), [errata](https://tensorflow.blog/nlp-with-pytorch/)), 한빛미디어, 2021
 * :robot: 머신 러닝 교과서 3판 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)**, [repo](https://github.com/rickiepark/python-machine-learning-book-3rd-edition), [errata](https://tensorflow.blog/python-ml-3/)), 길벗, 2021
 * :oyster: 딥러닝 일러스트레이티드 ([repo](https://github.com/rickiepark/dl-illustrated), [errata](https://tensorflow.blog/dl-illustrated/)), 시그마프레스, 2021
@@ -29,6 +30,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/rickiepark/ml-powered-applications"><img src="https://tensorflowkorea.files.wordpress.com/2021/08/e18491e185ade1848ce185b5_e18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bce18491e185a1e1848be185afe18483e185b3e1848be185a2e18491e185b3e186afe18485e185b5e1848fe185a6e1848be185b-1.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/nlp-with-pytorch"><img src="https://tensorflowkorea.files.wordpress.com/2021/05/e18491e185a1e1848be185b5e18490e185a9e1848ee185b5e18485e185a9e18487e185a2e1848be185aee18482e185b3e186abe1848ce185a1e1848be185a7e186abe1848be185a5e1848ee185a5e18485e185b5.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/python-machine-learning-book-3rd-edition"><img src="https://tensorflowkorea.files.wordpress.com/2021/03/e18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bce18480e185ade18480e185aae18489e185a53e18491e185a1e186ab-e1848be185a1e18781e18491e185ade1848ce185b5.png?w=710" height="150"></a>
 <a href="https://github.com/rickiepark/dl-illustrated"><img src="https://tensorflowkorea.files.wordpress.com/2021/01/cover-1.jpeg" height="150"></a>
