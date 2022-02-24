@@ -31,6 +31,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/rickiepark/intro_ml_with_python_2nd_revised"><img src="https://tensorflowkorea.files.wordpress.com/2022/02/e18491e185ade1848ce185b5_e18491e185a1e1848be185b5e1848ae185a5e186abe18485e185a1e1848be185b5e18487e185b3e18485e185a5e18485e185b5e18485e185b3e186afe18492e185aae186afe1848be185ade186bce184.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/ml-powered-applications"><img src="https://tensorflowkorea.files.wordpress.com/2021/08/e18491e185ade1848ce185b5_e18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bce18491e185a1e1848be185afe18483e185b3e1848be185a2e18491e185b3e186afe18485e185b5e1848fe185a6e1848be185b-1.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/nlp-with-pytorch"><img src="https://tensorflowkorea.files.wordpress.com/2021/05/e18491e185a1e1848be185b5e18490e185a9e1848ee185b5e18485e185a9e18487e185a2e1848be185aee18482e185b3e186abe1848ce185a1e1848be185a7e186abe1848be185a5e1848ee185a5e18485e185b5.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/python-machine-learning-book-3rd-edition"><img src="https://tensorflowkorea.files.wordpress.com/2021/03/e18486e185a5e18489e185b5e186abe18485e185a5e18482e185b5e186bce18480e185ade18480e185aae18489e185a53e18491e185a1e186ab-e1848be185a1e18781e18491e185ade1848ce185b5.png?w=710" height="150"></a>
