@@ -11,7 +11,7 @@
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
 
-* :spider_web: 구글 브레인 팀에게 배우는 딥러닝 with TensorFlow.js ([repo](https://github.com/rickiepark/deep-learning-with-javascript), [errata](https://tensorflow.blog/tfjs)), 길벗, 2022
+* :rhinoceros: 구글 브레인 팀에게 배우는 딥러닝 with TensorFlow.js ([repo](https://github.com/rickiepark/deep-learning-with-javascript), [errata](https://tensorflow.blog/tfjs)), 길벗, 2022
 * :dragon: (개정2판)파이썬 라이브러리를 활용한 머신러닝 ([repo](https://github.com/rickiepark/intro_ml_with_python_2nd_revised), [errata](https://tensorflow.blog/python-ml-2nd-revised/)), 한빛미디어, 2022
 * :butterfly: 머신러닝 파워드 애플리케이션 ([repo](https://github.com/rickiepark/ml-powered-applications), [errata](https://tensorflow.blog/mlpa/)), 한빛미디어, 2021
 * :bird: 파이토치로 배우는 자연어 처리 ([repo](https://github.com/rickiepark/nlp-with-pytorch/), [errata](https://tensorflow.blog/nlp-with-pytorch/)), 한빛미디어, 2021
