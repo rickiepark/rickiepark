@@ -1,11 +1,12 @@
 ### Hi Everyone 👋
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
-[![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
-[![Google Badge](https://img.shields.io/badge/-GDE-4285F4?style=flat-square&logo=Google&logoColor=white&link=https://developers.google.com/community/experts/directory/profile/profile-haesun_park)](https://developers.google.com/community/experts/directory/profile/profile-haesun-park)
+[![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
+[![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
+[![Cloud Badge](https://img.shields.io/badge/-Innovator-orange?style=flat&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/innovators/innovator?profileId=113597477647734204858)](https://cloud.google.com/innovators/innovator?profileId=113597477647734204858)
+[![Google Badge](https://img.shields.io/badge/-GDE-lightgrey?style=flat&logo=Google&logoColor=white&link=https://developers.google.com/community/experts/directory/profile/profile-haesun_park)](https://developers.google.com/community/experts/directory/profile/profile-haesun-park)
 
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
