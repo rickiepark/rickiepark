@@ -11,7 +11,7 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* :woman_student: 혼자 공부하는 데이터 분석 with 파이썬 ([repo](https://bit.ly/hg-da-git), [errata](https://bit.ly/hg-da-home)), 한빛미디어, 2022
+* :woman_student: 혼자 공부하는 데이터 분석 with 파이썬 ([repo](https://bit.ly/hg-da-git), [errata](https://bit.ly/hg-da-home)), 한빛미디어, 2023
 * :hugs: 트랜스포머를 활용한 자연어 처리 ([repo](https://bit.ly/transformer-git), [errata](https://bit.ly/transformer-home)), 한빛미디어, 2022
 * :unicorn: 케라스 창시자에게 배우는 딥러닝 2판 ([repo](https://github.com/rickiepark/deep-learning-with-python-2nd), [errata](https://tensorflow.blog/kerasdl2/)), 길벗, 2022
 * :woman_technologist: 개발자를 위한 머신러닝&딥러닝 ([repo](https://github.com/rickiepark/aiml4coders/), [errata](https://tensorflow.blog/aiml4coders)), 한빛미디어, 2022
