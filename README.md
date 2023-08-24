@@ -6,11 +6,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
 [![Cloud Badge](https://img.shields.io/badge/-Innovator-orange?style=flat&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/innovators/innovator?profileId=113597477647734204858)](https://cloud.google.com/innovators/innovator?profileId=113597477647734204858)
-[![Google Badge](https://img.shields.io/badge/-GDE-lightgrey?style=flat&logo=Google&logoColor=white&link=https://developers.google.com/community/experts/directory/profile/profile-haesun_park)](https://developers.google.com/community/experts/directory/profile/profile-haesun-park)
-
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
+* :alarm_clock: 코딩 뇌를 깨우는 파이썬 ([repo](https://github.com/rickiepark/python4daml), [errta](https://tensorflow.blog/python4daml/)), 한빛미디어, 2023
 * :moyai: 챗GPT로 대화하는 기술 ([errata](https://tensorflow.blog/gen-ai)), 한빛미디어, 2023
 * :woman_student: 혼자 공부하는 데이터 분석 with 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjk0b_hLUxLw7W4pc9feRTF)**, [repo](https://bit.ly/hg-da-git), [errata](https://bit.ly/hg-da-home)), 한빛미디어, 2023
 * :hugs: 트랜스포머를 활용한 자연어 처리 ([repo](https://bit.ly/transformer-git), [errata](https://bit.ly/transformer-home)), 한빛미디어, 2022
@@ -41,6 +40,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://tensorflow.blog/python4daml/"><img src="https://tensorflowkorea.files.wordpress.com/2023/08/8655ff6c434021a80a7ef17d422c2ebc.jpg" height="150"></a>
 <a href="https://tensorflow.blog/gen-ai"><img src="https://tensorflowkorea.files.wordpress.com/2023/06/ecb197gpteba19ceb8c80ed9994ed9598eb8a94eab8b0ec88a0.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-da"><img src="https://tensorflowkorea.files.wordpress.com/2022/12/ed98bcec9e90-eab3b5ebb680ed9598eb8a94-eb8db0ec9db4ed84b0-ebb684ec849d-with-ed8c8cec9db4ec8dac_ecbba4ebb284.png" height="150"></a>
 <a href="https://github.com/rickiepark/nlp-with-transformers"><img src="https://tensorflowkorea.files.wordpress.com/2022/11/ed919ceca780_ed8ab8eb9e9cec8aa4ed8faceba8b8eba5bced999cec9aa9ed959cec9e90ec97b0ec96b4ecb298eba6ac.png" height="150"></a>
