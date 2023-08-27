@@ -40,7 +40,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
-<a href="https://tensorflow.blog/python4daml/"><img src="https://tensorflowkorea.files.wordpress.com/2023/08/8655ff6c434021a80a7ef17d422c2ebc.jpg" height="150"></a>
+<a href="https://github.com/rickiepark/python4daml"><img src="https://tensorflowkorea.files.wordpress.com/2023/08/8655ff6c434021a80a7ef17d422c2ebc.jpg" height="150"></a>
 <a href="https://tensorflow.blog/gen-ai"><img src="https://tensorflowkorea.files.wordpress.com/2023/06/ecb197gpteba19ceb8c80ed9994ed9598eb8a94eab8b0ec88a0.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-da"><img src="https://tensorflowkorea.files.wordpress.com/2022/12/ed98bcec9e90-eab3b5ebb680ed9598eb8a94-eb8db0ec9db4ed84b0-ebb684ec849d-with-ed8c8cec9db4ec8dac_ecbba4ebb284.png" height="150"></a>
 <a href="https://github.com/rickiepark/nlp-with-transformers"><img src="https://tensorflowkorea.files.wordpress.com/2022/11/ed919ceca780_ed8ab8eb9e9cec8aa4ed8faceba8b8eba5bced999cec9aa9ed959cec9e90ec97b0ec96b4ecb298eba6ac.png" height="150"></a>
