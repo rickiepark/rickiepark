@@ -42,8 +42,8 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
-<a href="https://tensorflow.blog/handson-ml3/"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/ed95b8eca688ec98a8-eba8b8ec8ba0eb9faceb8b9d-3ed8c90_ec959eed919ceca780.png" height="150"></a>
-<a href="https://tensorflow.blog/gen-dl-2/"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/eba78ceb93a4eba9b4ec849cebb0b0ec9ab0eb8a94ec839dec84b1ai.jpeg" height="150"></a>
+<a href="https://github.com/rickiepark/handson-ml3"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/ed95b8eca688ec98a8-eba8b8ec8ba0eb9faceb8b9d-3ed8c90_ec959eed919ceca780.png" height="150"></a>
+<a href="https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/eba78ceb93a4eba9b4ec849cebb0b0ec9ab0eb8a94ec839dec84b1ai.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/python4daml"><img src="https://tensorflowkorea.files.wordpress.com/2023/08/8655ff6c434021a80a7ef17d422c2ebc.jpg" height="150"></a>
 <a href="https://tensorflow.blog/gen-ai"><img src="https://tensorflowkorea.files.wordpress.com/2023/06/ecb197gpteba19ceb8c80ed9994ed9598eb8a94eab8b0ec88a0.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-da"><img src="https://tensorflowkorea.files.wordpress.com/2022/12/ed98bcec9e90-eab3b5ebb680ed9598eb8a94-eb8db0ec9db4ed84b0-ebb684ec849d-with-ed8c8cec9db4ec8dac_ecbba4ebb284.png" height="150"></a>
