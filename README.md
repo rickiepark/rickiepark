@@ -11,7 +11,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 * :lizard: 핸즈온 머신러닝 3판 ([repo](https://github.com/rickiepark/handson-ml3), [errata](https://tensorflow.blog/handson-ml3/)), 한빛미디어, 2023
 * :framed_picture: 만들면서 배우는 생성 AI 2판 ([repo](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/), [errata](https://tensorflow.blog/gen-dl-2/)), 한빛미디어, 2023
-* :alarm_clock: 코딩 뇌를 깨우는 파이썬 ([repo](https://github.com/rickiepark/python4daml), [errta](https://tensorflow.blog/python4daml/)), 한빛미디어, 2023
+* :alarm_clock: 코딩 뇌를 깨우는 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQgfGrerljqqmBhqfhrOniI-)**, [repo](https://github.com/rickiepark/python4daml), [errta](https://tensorflow.blog/python4daml/)), 한빛미디어, 2023
 * :moyai: 챗GPT로 대화하는 기술 ([errata](https://tensorflow.blog/gen-ai)), 한빛미디어, 2023
 * :woman_student: 혼자 공부하는 데이터 분석 with 파이썬 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjk0b_hLUxLw7W4pc9feRTF)**, [repo](https://bit.ly/hg-da-git), [errata](https://bit.ly/hg-da-home)), 한빛미디어, 2023
 * :hugs: 트랜스포머를 활용한 자연어 처리 ([repo](https://bit.ly/transformer-git), [errata](https://bit.ly/transformer-home)), 한빛미디어, 2022
