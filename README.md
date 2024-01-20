@@ -1,11 +1,12 @@
 ### Hi Everyone 👋
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=Wordpress&logoColor=white&link=https://tensorflow.blog/)](https://tensorflow.blog/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
-[![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
+[![MVP Badge](https://img.shields.io/badge/-AI%20MVP-1DA1F2?style=flat&logo=microsoft&logoColor=white&link=https://mvp.microsoft.com/en-US/MVP/profile/c0e802e9-a17a-4bbb-84cb-039183b67f2f)](https://mvp.microsoft.com/en-US/MVP/profile/c0e802e9-a17a-4bbb-84cb-039183b67f2f)
 [![Cloud Badge](https://img.shields.io/badge/-Innovator-orange?style=flat&logo=Google-Cloud&logoColor=white&link=https://cloud.google.com/innovators/innovator?profileId=113597477647734204858)](https://developers.google.com/profile/u/haesunpark)
+[![Youtub Badge](https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/HaesunPark_ML/)](https://www.youtube.com/c/HaesunPark_ML/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
