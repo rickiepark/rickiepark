@@ -10,7 +10,7 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* :parrot: 파이썬을 활용한 머신러닝 쿡북 ([repo](https://github.com/rickiepark/ml-with-python-cookbook-2nd), [errata](https://tensorflow.blog/ml-cookbook-2/)), 한빛미디어, 2024
+* :parrot: 실무로 통하는 ML 문제 해결 with 파이썬 ([repo](https://github.com/rickiepark/ml-with-python-cookbook-2nd), [errata](https://tensorflow.blog/ml-cookbook-2/)), 한빛미디어, 2024
 * :fire: 머신 러닝 교과서: 파이토치 편 ([repo](https://github.com/rickiepark/ml-with-pytorch), [errata](https://tensorflow.blog/python-ml-pt/)), 길벗, 2023
 * :pencil2: 스티븐 울프럼의 챗GPT 강의 ([errata](https://tensorflow.blog/wolfram-chatgpt/)), 한빛미디어, 2023
 * :lizard: 핸즈온 머신러닝 3판 ([repo](https://github.com/rickiepark/handson-ml3), [errata](https://tensorflow.blog/handson-ml3/)), 한빛미디어, 2023
