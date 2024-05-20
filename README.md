@@ -46,8 +46,8 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
-<a href="https://tensorflow.blog/ml-cookbook-2/"><img src="https://tensorflowkorea.files.wordpress.com/2024/04/ec8ba4ebacb4eba19ced86b5ed9598eb8a94mlebacb8eca09ced95b4eab2b0withed8c8cec9db4ec8dac.png" height="150"></a>
-<a href="https://tensorflow.blog/python-ml-pt/"><img src="https://tensorflowkorea.files.wordpress.com/2023/11/eba8b8ec8ba0eb9faceb8b9deab590eab3bcec849ced8c8cec9db4ed86a0ecb998ed8eb8.jpg" height="150"></a>
+<a href="https://github.com/rickiepark/ml-with-python-cookbook-2nd"><img src="https://tensorflowkorea.files.wordpress.com/2024/04/ec8ba4ebacb4eba19ced86b5ed9598eb8a94mlebacb8eca09ced95b4eab2b0withed8c8cec9db4ec8dac.png" height="150"></a>
+<a href="https://github.com/rickiepark/ml-with-pytorch"><img src="https://tensorflowkorea.files.wordpress.com/2023/11/eba8b8ec8ba0eb9faceb8b9deab590eab3bcec849ced8c8cec9db4ed86a0ecb998ed8eb8.jpg" height="150"></a>
 <a href="https://tensorflow.blog/wolfram-chatgpt/"><img src="https://tensorflowkorea.files.wordpress.com/2023/10/ecb197gpteab095ec9d98.jpeg" height="150"></a>
 <a href="https://github.com/rickiepark/handson-ml3"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/ed95b8eca688ec98a8-eba8b8ec8ba0eb9faceb8b9d-3ed8c90_ec959eed919ceca780.png" height="150"></a>
 <a href="https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/"><img src="https://tensorflowkorea.files.wordpress.com/2023/09/eba78ceb93a4eba9b4ec849cebb0b0ec9ab0eb8a94ec839dec84b1ai.jpeg" height="150"></a>
