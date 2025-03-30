@@ -10,6 +10,7 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
+* ⁉️ 머신 러닝 Q & AI (**video**, [repo](https://github.com/rickiepark/MLQandAI), [errata](https://tensorflow.blog/ml-q-and-ai/)), 길벗, 2025
 * :student: 혼자 공부하는 머신러닝+딥러닝(개정판) (**video**, [repo](https://github.com/rickiepark/hg-mldl2), [errata](https://tensorflow.blog/hg-mldl2/)), 한빛미디어, 2025
 * :triangular_ruler: 개발자를 위한 필수 수학 ([repo](https://github.com/rickiepark/math4ds), [errata](https://tensorflow.blog/math4ds)), 한빛미디어, 2024
 * :parrot: 실무로 통하는 ML 문제 해결 with 파이썬 ([repo](https://github.com/rickiepark/ml-with-python-cookbook-2nd), [errata](https://tensorflow.blog/ml-cookbook-2/)), 한빛미디어, 2024
@@ -44,10 +45,11 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 * :brain: 텐서플로 첫걸음 ([repo](https://github.com/rickiepark/first-steps-with-tensorflow), [errata](https://tensorflow.blog/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EC%B2%AB%EA%B1%B8%EC%9D%8C/)), 한빛미디어, 2016
 
 
-<a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2024/05/tensorflow-blog-1-1.jpg"></a>
+<a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/tensorflow-blog-1.jpg"></a>
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/rickiepark/ml-q-and-ai"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-mldl2"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/b7077594897_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/math4ds"><img src="https://tensorflow.blog/wp-content/uploads/2024/05/eab09cebb09cec9e90eba5bc-ec9c84ed959c-ed9584ec8898-ec8898ed9599_ed948ceb9eab.png?w=796" height="150"></a>
 <a href="https://github.com/rickiepark/ml-with-python-cookbook-2nd"><img src="https://tensorflowkorea.files.wordpress.com/2024/04/ec8ba4ebacb4eba19ced86b5ed9598eb8a94mlebacb8eca09ced95b4eab2b0withed8c8cec9db4ec8dac.png" height="150"></a>
