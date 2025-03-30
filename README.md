@@ -49,7 +49,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
-<a href="https://github.com/rickiepark/ml-q-and-ai"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
+<a href="https://github.com/rickiepark/MLQandAI"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-mldl2"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/b7077594897_l.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/math4ds"><img src="https://tensorflow.blog/wp-content/uploads/2024/05/eab09cebb09cec9e90eba5bc-ec9c84ed959c-ed9584ec8898-ec8898ed9599_ed948ceb9eab.png?w=796" height="150"></a>
 <a href="https://github.com/rickiepark/ml-with-python-cookbook-2nd"><img src="https://tensorflowkorea.files.wordpress.com/2024/04/ec8ba4ebacb4eba19ced86b5ed9598eb8a94mlebacb8eca09ced95b4eab2b0withed8c8cec9db4ec8dac.png" height="150"></a>
