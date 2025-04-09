@@ -10,8 +10,8 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* ⁉️ 머신 러닝 Q & AI (**video**, [repo](https://github.com/rickiepark/MLQandAI), [errata](https://tensorflow.blog/ml-q-and-ai/)), 길벗, 2025
-* :student: 혼자 공부하는 머신러닝+딥러닝(개정판) (**video**, [repo](https://github.com/rickiepark/hg-mldl2), [errata](https://tensorflow.blog/hg-mldl2/)), 한빛미디어, 2025
+* ⁉️ 머신 러닝 Q & AI (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjycuSdrrlI5F8rTYKlYrMT)**, [repo](https://github.com/rickiepark/MLQandAI), [errata](https://tensorflow.blog/ml-q-and-ai/)), 길벗, 2025
+* :student: 혼자 공부하는 머신러닝+딥러닝(개정판) (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQihHwcbrZp9uuwgxQen5HS-)**, [repo](https://github.com/rickiepark/hg-mldl2), [errata](https://tensorflow.blog/hg-mldl2/)), 한빛미디어, 2025
 * :triangular_ruler: 개발자를 위한 필수 수학 ([repo](https://github.com/rickiepark/math4ds), [errata](https://tensorflow.blog/math4ds)), 한빛미디어, 2024
 * :parrot: 실무로 통하는 ML 문제 해결 with 파이썬 ([repo](https://github.com/rickiepark/ml-with-python-cookbook-2nd), [errata](https://tensorflow.blog/ml-cookbook-2/)), 한빛미디어, 2024
 * :fire: 머신 러닝 교과서: 파이토치 편 ([repo](https://github.com/rickiepark/ml-with-pytorch), [errata](https://tensorflow.blog/python-ml-pt/)), 길벗, 2023
