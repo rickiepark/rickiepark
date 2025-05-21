@@ -10,7 +10,7 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* :kangaroo: 핸즈온 LLM (video, [repo](https://github.com/riciepark/handson-llm), [errata](https://tensorflow.blog/handson-llm)), 한빛미디어, 2025
+* :kangaroo: 핸즈온 LLM (video, [repo](https://github.com/rickiepark/handson-llm), [errata](https://tensorflow.blog/handson-llm)), 한빛미디어, 2025
 * :wrench: 혼자 만들면서 공부하는 딥러닝 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjqS4atZMP47E2w7jr1HsLe)**, [repo](https://github.com/rickiepark/hm-dl), [errata](https://tensorflow.blog/hm-dl/)), 한빛미디어, 2025
 * ⁉️ 머신 러닝 Q & AI (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjycuSdrrlI5F8rTYKlYrMT)**, [repo](https://github.com/rickiepark/MLQandAI), [errata](https://tensorflow.blog/ml-q-and-ai/)), 길벗, 2025
 * :student: 혼자 공부하는 머신러닝+딥러닝(개정판) (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQihHwcbrZp9uuwgxQen5HS-)**, [repo](https://github.com/rickiepark/hg-mldl2), [errata](https://tensorflow.blog/hg-mldl2/)), 한빛미디어, 2025
