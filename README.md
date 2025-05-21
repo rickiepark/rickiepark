@@ -10,7 +10,8 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* :wrench: 혼자 만들면서 공부하는 딥러닝 (video, [repo](https://github.com/rickiepark/hm-dl), [errata](https://tensorflow.blog/hm-dl/)), 한빛미디어, 2025
+* :kangaroo: 핸즈온 LLM (video, [repo](https://github.com/riciepark/handson-llm), [errata](https://tensorflow.blog/handson-llm)), 한빛미디어, 2025
+* :wrench: 혼자 만들면서 공부하는 딥러닝 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjqS4atZMP47E2w7jr1HsLe)**, [repo](https://github.com/rickiepark/hm-dl), [errata](https://tensorflow.blog/hm-dl/)), 한빛미디어, 2025
 * ⁉️ 머신 러닝 Q & AI (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjycuSdrrlI5F8rTYKlYrMT)**, [repo](https://github.com/rickiepark/MLQandAI), [errata](https://tensorflow.blog/ml-q-and-ai/)), 길벗, 2025
 * :student: 혼자 공부하는 머신러닝+딥러닝(개정판) (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQihHwcbrZp9uuwgxQen5HS-)**, [repo](https://github.com/rickiepark/hg-mldl2), [errata](https://tensorflow.blog/hg-mldl2/)), 한빛미디어, 2025
 * :triangular_ruler: 개발자를 위한 필수 수학 ([repo](https://github.com/rickiepark/math4ds), [errata](https://tensorflow.blog/math4ds)), 한빛미디어, 2024
@@ -50,6 +51,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/rickiepark/handson-llm"><img src="https://tensorflow.blog/wp-content/uploads/2025/05/ed95b8eca688ec98a8_llm.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hm-dl"><img src="https://tensorflow.blog/wp-content/uploads/2025/04/5800017223612001.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/MLQandAI"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hg-mldl2"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/b7077594897_l.jpg" height="150"></a>
