@@ -8,6 +8,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
 
+
+* **인프런 강의**:
+  * :tractor: [밑바닥부터 만들면서 배우는 LLM](https://inf.run/wQDh8)
+  * :peach: [머신러닝, 핵심만 빠르게](https://inf.run/zQLtU)
+  * :grapes: [대규모 언어 모델, 핵심만 빠르게](https://inf.run/MxWx4)
+
+
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
 * :grapes: 대규모 언어 모델, 핵심만 빠르게 ([repo](https://github.com/rickiepark/the-lm-book), [errata](https://tensorflow.blog/the-lm-book/)), 인사이트, 2025
