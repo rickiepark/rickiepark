@@ -17,8 +17,8 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
-* :grapes: 대규모 언어 모델, 핵심만 빠르게 ([repo](https://github.com/rickiepark/the-lm-book), [errata](https://tensorflow.blog/the-lm-book/)), 인사이트, 2025
-* :peach: 머신러닝, 핵심만 빠르게 ([repo](https://github.com/rickiepark/the-ml-book), [errata](https://tensorflow.blog/the-ml-book/)), 인사이트, 2025
+* :grapes: 대규모 언어 모델, 핵심만 빠르게 ([온라인강의](https://inf.run/MxWx4), [repo](https://github.com/rickiepark/the-lm-book), [errata](https://tensorflow.blog/the-lm-book/)), 인사이트, 2025
+* :peach: 머신러닝, 핵심만 빠르게 ([온라인강의](https://inf.run/zQLtU), [repo](https://github.com/rickiepark/the-ml-book), [errata](https://tensorflow.blog/the-ml-book/)), 인사이트, 2025
 * :tractor: 밑바닥부터 만들면서 배우는 LLM ([온라인강의](https://inf.run/wQDh8), [video](https://www.youtube.com/playlist?list=PLJN246lAkhQhgakhcxz-5GwG_NYuJgSv1), [repo](https://github.com/rickiepark/llm-from-scratch), [errata](https://tensorflow.blog/llm-from-scratch)), 길벗, 2025
 * :kangaroo: 핸즈온 LLM ([repo](https://github.com/rickiepark/handson-llm), [errata](https://tensorflow.blog/handson-llm)), 한빛미디어, 2025
 * :wrench: 혼자 만들면서 공부하는 딥러닝 (**[video](https://www.youtube.com/playlist?list=PLJN246lAkhQjqS4atZMP47E2w7jr1HsLe)**, [repo](https://github.com/rickiepark/hm-dl), [errata](https://tensorflow.blog/hm-dl/)), 한빛미디어, 2025
@@ -63,7 +63,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
 <a href="https://github.com/rickiepark/the-lm-book"><img src="https://tensorflow.blog/wp-content/uploads/2025/10/cover-the-lm-book.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/the-ml-book"><img src="https://tensorflow.blog/wp-content/uploads/2025/10/cover-the-ml-book.jpg" height="150"></a>
-<a href="https://github.com/rickiepark/llm-from-scratch"><img src="https://tensorflow.blog/wp-content/uploads/2025/09/ebb091ebb094eb8ba5llm_ebb3b8ecb185_ec959eeba9b4.jpg" height="150"></a>
+<a href="https://github.com/rickiepark/llm-from-scratch"><img src="https://tensorflow.blog/wp-content/uploads/2025/09/ebb091ebb094eb8ba5llm_3ec8784_ec959eeba9b4.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/handson-llm"><img src="https://tensorflow.blog/wp-content/uploads/2025/05/ed95b8eca688ec98a8_llm.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/hm-dl"><img src="https://tensorflow.blog/wp-content/uploads/2025/04/5800017223612001.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/MLQandAI"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" height="150"></a>
