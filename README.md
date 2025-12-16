@@ -57,7 +57,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 * :brain: 텐서플로 첫걸음 ([repo](https://github.com/rickiepark/first-steps-with-tensorflow), [errata](https://tensorflow.blog/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EC%B2%AB%EA%B1%B8%EC%9D%8C/)), 한빛미디어, 2016
 
 
-<a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/tensorflow-blog-5.jpg"></a>
+<a href="https://tensorflow.blog/book-roadmap/" target="_blank"><img src="https://tensorflow.blog/wp-content/uploads/2025/03/tensorflow-blog-5.jpg?width=700"></a>
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
