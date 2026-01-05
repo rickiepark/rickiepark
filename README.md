@@ -7,6 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/haesunrpark)](https://www.facebook.com/haesunrpark)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/hsunpark)](https://twitter.com/hsunpark)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haesunpark/)](https://www.linkedin.com/in/haesunpark/) 
+[![Coffeechat Badge](https://img.shields.io/badge/-FreeCoffeeChat-5A3E2D?style=flat&logo=Linkedin&logoColor=white&link=https://www.freecoffeechat.org/meet/haesun)](https://www.freecoffeechat.org/meet/haesun) 
 
 
 * **인프런 강의**:
