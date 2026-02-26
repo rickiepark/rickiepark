@@ -18,6 +18,7 @@
 
 I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are repositories for :books: that I translated or wrote. Just click :orange_book: to go the repo.
 
+* :eagle: 파이토치로 배우는 LLM & AI ([repo](https://github.com/lmoroney/PyTorch-Book-FIles/), [errata](https://tensorflow.blog/pytorch-llm-ai/)), 한빛미디어, 2025
 * :grapes: 대규모 언어 모델, 핵심만 빠르게 ([온라인강의](https://inf.run/MxWx4), [repo](https://github.com/rickiepark/the-lm-book), [errata](https://tensorflow.blog/the-lm-book/)), 인사이트, 2025
 * :peach: 머신러닝, 핵심만 빠르게 ([온라인강의](https://inf.run/zQLtU), [repo](https://github.com/rickiepark/the-ml-book), [errata](https://tensorflow.blog/the-ml-book/)), 인사이트, 2025
 * :tractor: 밑바닥부터 만들면서 배우는 LLM ([온라인강의](https://inf.run/wQDh8), [video](https://www.youtube.com/playlist?list=PLJN246lAkhQhgakhcxz-5GwG_NYuJgSv1), [repo](https://github.com/rickiepark/llm-from-scratch), [errata](https://tensorflow.blog/llm-from-scratch)), 길벗, 2025
@@ -62,6 +63,7 @@ I :heart: to :writing_hand: about Machine Learning and Deep Learning. Here are r
 
 
 <a href="https://github.com/rickiepark/rickiepark/blob/master/haesun.png"><img src="haesun.png" height="150"></a>
+<a href="https://github.com/lmoroney/PyTorch-Book-FIles/"><img src="https://tensorflowkorea.wordpress.com/wp-content/uploads/2026/02/ed8c8cec9db4ed86a0ecb998eba19c-ebb0b0ec9ab0eb8a94-llm-ai.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/the-lm-book"><img src="https://tensorflow.blog/wp-content/uploads/2025/10/cover-the-lm-book.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/the-ml-book"><img src="https://tensorflow.blog/wp-content/uploads/2025/10/cover-the-ml-book.jpg" height="150"></a>
 <a href="https://github.com/rickiepark/llm-from-scratch"><img src="https://tensorflow.blog/wp-content/uploads/2025/09/ebb091ebb094eb8ba5llm_3ec8784_ec959eeba9b4.jpg" height="150"></a>
