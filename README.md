@@ -9,6 +9,10 @@
 [![Coffeechat Badge](https://img.shields.io/badge/-FreeCoffeeChat-5A3E2D?style=flat&logo=Linkedin&logoColor=white&link=https://www.freecoffeechat.org/meet/haesun)](https://www.freecoffeechat.org/meet/haesun) 
 
 
+* **현재 진행 중인 인프런 챌린지**:
+  * 🦄: [케라스 창시자에게 배우는 딥러닝 3판](https://inf.run/H3pU3)
+
+
 * **인프런 강의**:
   * :tractor: [밑바닥부터 만들면서 배우는 LLM](https://inf.run/wQDh8)
   * :peach: [머신러닝, 핵심만 빠르게](https://inf.run/zQLtU)
