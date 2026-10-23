@@ -13,6 +13,7 @@
   * :orangutan: [핸즈온 머신러닝 with 사이킷런, 파이토치](https://inf.run/sGSTb)
 
 * **인프런 강의**:
+  * :orangutan: [핸즈온 머신러닝 with 사이킷런, 파이토치](https://inf.run/xzyaJ)
   * 🦄: [케라스 창시자에게 배우는 딥러닝 3판](https://inf.run/TXP3X)
   * :tractor: [밑바닥부터 만들면서 배우는 LLM](https://inf.run/wQDh8)
   * :peach: [머신러닝, 핵심만 빠르게](https://inf.run/zQLtU)
